@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(1, 247, 34);
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+.friend {
+    background-color: orange;
+}
+
+h3 {
+    text-transform: uppercase;
+}
